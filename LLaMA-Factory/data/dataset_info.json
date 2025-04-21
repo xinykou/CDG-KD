@@ -1,0 +1,12 @@
+{
+  "kgw_prefix_1": {
+    "file_name": "/media/5/yx/distill_watermark/data/direct_distillation/kgw_prefix_1_final.json"
+  }
+  ,
+  "kgw_prefix_1-dipper_paraphrased": {
+    "file_name": "/media/5/yx/distill_watermark/data/paraphrase/dipper/kgw_prefix_1_final_paraphrased.json"
+  },
+  "kgw_prefix_1-scrubbing_attack": {
+    "file_name": "/media/5/yx/distill_watermark/data/scrubbing_attack/kgw_prefix_1_final.json"
+  }
+}
