@@ -155,4 +155,11 @@ If you find this code useful in your research, please consider citing:
 
 ```bibtex
 
+@inproceedings{yi2025unified,
+  title={Unified Attacks to Large Language Model Watermarks: Spoofing and Scrubbing in Unauthorized Knowledge Distillation},
+  author={Xin Yi and Yue Li and Shunfan Zheng and Linlin Wang and Xiaoling Wang and Liang He},
+  eprint={2504.17480},
+  archivePrefix={arXiv},
+  year={2025}
+}
 ```
