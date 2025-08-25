@@ -3,7 +3,7 @@
 ## Method Overview
 
 <div align="center">
-  <img src="images/task_scenario.png" width="60%">
+  <img src="images/task_scenario.png" width="40%">
 </div>
 
 
@@ -11,7 +11,7 @@ Figure 1: An overview of watermark scrubbing and spoofing attacks in unauthorize
 
 
 <div align="center">
-  <img src="images/overview.png" width="60%">
+  <img src="images/overview.png" width="80%">
 </div>
 
 Figure 2: CDG-KD: A unified framework for watermark scrubbing and spoofing attacks in unauthorized knowledge distillation, enabled by contrastive decoding-guided knowledge distillation.
