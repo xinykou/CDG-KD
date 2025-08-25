@@ -75,7 +75,7 @@ accelerate launch --main_process_port 29501 src/train.py examples/train_full/par
 
 ```
 
-## Contrastive Decoding
+## Contrastive Decoding via CDG-KD*
 ```bash
 
 export CUDA_VISIBLE_DEVICES=0,1,2,3
@@ -100,7 +100,7 @@ python watermark/spoofing_or_scrubbing_attack/contrastive_generation.py \
 
 ```
 
-## Bidirectional Distillation
+## Dual-path Distillation
 
 ```bash
 export CUDA_VISIBLE_DEVICES=0,1,2,3
